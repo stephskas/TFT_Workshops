@@ -1,0 +1,7 @@
+/*
+function displayMsg() {
+	
+	document.getElementById()
+	
+}
+*/
